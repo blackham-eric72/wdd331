@@ -1,0 +1,35 @@
+.cd-primary-nav {
+    background-color: $color-4;
+    padding:15px;
+    
+    a {
+        color: $color-2;
+        
+        &:hover {
+            color: $color-5;
+        }
+    }
+    
+    li {
+        padding: 7px;
+    }
+    
+}
+
+.cd-other-links {
+    background-color: $color-2;
+    padding:10px;
+    
+    a {
+        color: $color-1;
+        
+        &:hover {
+            color: $color-5;
+        }
+    }
+    
+    li {
+        padding: 5px;
+    }
+    
+}
