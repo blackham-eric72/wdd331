@@ -596,10 +596,10 @@ section {
       color: #f5880d; }
   .cd-other-links li {
     padding: 5px; }
-#headingTypo{
+.headingTypo{
  font-family: 'Permanent Marker', cursive; 
 }
-#bodyTypo{
+.bodyTypo{
 font-family: 'Open Sans', sans-serif;
 }
 /*# sourceMappingURL=style-guide.css.map */
