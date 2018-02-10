@@ -569,7 +569,7 @@ section {
 .cd-typography h1::before {
   content: 'Aa - ';
   color: #b4d7d4; }
-
+.cd-typography
 @-moz-document url-prefix() {
   /* hide custom arrow on Firefox */
   .cd-select::after {
@@ -596,5 +596,10 @@ section {
       color: #f5880d; }
   .cd-other-links li {
     padding: 5px; }
-
+#headingTypo{
+ font-family: 'Permanent Marker', cursive; 
+}
+#bodyTypo{
+font-family: 'Open Sans', sans-serif;
+}
 /*# sourceMappingURL=style-guide.css.map */
